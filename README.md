@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Targeting product-based companies (Google-level grind)
+- 🎯 Targeting product-based companies 
 - 💻 Learning Full Stack (MERN)
 - 🧠 Competitive Programming & DSA
 - 🐧 Ubuntu Linux user
@@ -39,13 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshVashist&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshVashist&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshVashist&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
